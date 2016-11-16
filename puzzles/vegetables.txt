@@ -1,0 +1,23 @@
+vegetables
+brocoli
+carrots
+bell peppers
+spinach
+lettuce
+cauliflower
+beets
+sweet potatoes
+potatoes
+corn
+arugula
+bok choy
+brussels sprouts
+celery
+collard greens
+peas
+green beans
+turnip greens
+cabbage
+dill
+
+

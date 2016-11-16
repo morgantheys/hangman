@@ -1,0 +1,26 @@
+Dog Breeds
+german shepard
+boxer
+blue heeler
+husky
+boarder collie
+australian shepherd
+jack russel terrier
+Boston Terrier		
+corgi
+bulldog
+black lab
+yellow lab
+chocolate lab
+chow chow
+cocker spaniel
+dachshund
+doberman pinscher
+beagle
+schnauzer
+golden retriever
+english bulldog
+gordon setter
+greater swiss mountain dog
+great dane
+pit bull
